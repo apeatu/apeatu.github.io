@@ -9606,7 +9606,7 @@ ul {
 }
 
 .footer-title.subscribe {
-    text-align: center;
+  text-align: center;
 }
 
 .footer-list li {
@@ -11517,8 +11517,8 @@ p.checkout-coupon input[type="submit"] {
 #about h2 {
   font-size: 60px;
   color: #000;
-  line-height: 110%!important;
-  font-weight: 700!important;
+  line-height: 110% !important;
+  font-weight: 700 !important;
 }
 
 #about h6 a {
@@ -11533,7 +11533,8 @@ p.checkout-coupon input[type="submit"] {
   font-size: 12px;
   border-radius: 8px;
   background-color: #000000;
-  color: #ffffff;}
+  color: #ffffff;
+}
 
 a.shipping-calculator-button {
   font-weight: bold;
@@ -12244,7 +12245,7 @@ a.shipping-calculator-button:hover {
   font-size: 32px;
   font-weight: 700;
   line-height: 32px;
-  margin-top: 80px;
+  margin-top: 70px;
   margin-bottom: 20px;
   text-transform: uppercase;
 }
@@ -12340,10 +12341,10 @@ a.shipping-calculator-button:hover {
   display: inline-block;
   font-weight: bold;
   padding: 1px 100px 0;
-  height: 56px!important;
-  border-radius: 28px!important;
-  line-height: 56px!important;
-  font-size: 18px!important;
+  height: 56px !important;
+  border-radius: 28px !important;
+  line-height: 56px !important;
+  font-size: 18px !important;
   text-transform: uppercase;
   -webkit-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
